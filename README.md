@@ -1,0 +1,1 @@
+Este repo contiene el Trabajo Práctico Integrador de Laboratorio de Computación I de la Tecnicatura Universitaria de Programación de la UTN FR Gral Pacheco, que consistió en elaborar un juego de cartas llamado Clutch como aplicación de consola en el lenguaje C++ (ver PDF adjunto con descripción y requisitos a cumplimentar).
